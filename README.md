@@ -12,7 +12,7 @@ I'm Martina. Currently learning Web Development at ALPHA Camp, hope to become a 
 ![icons8-node js-48](https://user-images.githubusercontent.com/116145929/208834962-3c9b0dd5-1f14-4d4e-8d0e-c54c2d70ed16.png)
 ![icons8-express-js-50](https://user-images.githubusercontent.com/116145929/208835000-757ac57e-5c6a-4760-b8ce-8821ad398541.png)
 ![icons8-visual-studio-48](https://user-images.githubusercontent.com/116145929/208835376-bcef7302-763c-4c83-a446-ea2d2716805c.png)
-![icons8-sass-96](https://user-images.githubusercontent.com/116145929/208835231-75c36a6d-d149-43b5-af06-798482f56862.png)
+![icons8-sass-48](https://user-images.githubusercontent.com/116145929/208835536-39effbcf-1852-49ec-a386-bc04bb2f8204.png)
 
 
 <!--
