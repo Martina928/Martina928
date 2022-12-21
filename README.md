@@ -11,7 +11,7 @@ I'm Martina. Currently learning Web Development at ALPHA Camp, hope to become a 
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/116145929/197384173-54a696c0-99ff-4894-96bb-2f4a6e821226.png)
 ![icons8-node js-48](https://user-images.githubusercontent.com/116145929/208834962-3c9b0dd5-1f14-4d4e-8d0e-c54c2d70ed16.png)
 ![icons8-express-js-50](https://user-images.githubusercontent.com/116145929/208835000-757ac57e-5c6a-4760-b8ce-8821ad398541.png)
-<img width="804" alt="截圖 2022-12-21 下午2 15 02" src="https://user-images.githubusercontent.com/116145929/208835015-ad011fff-1a68-415b-a046-dd00bff8ab2e.png">
+![icons8-visual-studio-48](https://user-images.githubusercontent.com/116145929/208835376-bcef7302-763c-4c83-a446-ea2d2716805c.png)
 ![icons8-sass-96](https://user-images.githubusercontent.com/116145929/208835231-75c36a6d-d149-43b5-af06-798482f56862.png)
 
 
